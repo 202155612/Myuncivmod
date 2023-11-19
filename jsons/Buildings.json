@@ -16,7 +16,7 @@
 		"name": "Breeders",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Aliens",
-		"cost": 80,
+		"cost": 1,
 		"hurryCostModifier": 160,
 		"happiness": 2
 	}
