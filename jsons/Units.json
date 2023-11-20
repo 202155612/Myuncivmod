@@ -2,7 +2,7 @@
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Zenya",
+		"uniqueTo": "제니아",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
