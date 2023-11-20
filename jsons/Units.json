@@ -9,9 +9,7 @@
 		"range": 2,
 		"cost": 1,
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": "phasers",
 		"uniques": "Limited to [1] per Civilization"
-
-
 	}
 ]
