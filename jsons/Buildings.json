@@ -2,7 +2,7 @@
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Zenya",
+		"uniqueTo": "제니아",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
@@ -15,7 +15,7 @@
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Zenya",
+		"uniqueTo": "제니아",
 		"cost": 1,
 		"hurryCostModifier": 160,
 		"happiness": 2
