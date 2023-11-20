@@ -1,9 +1,8 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Zenya",
+		"leaderName": "Elith",
+		"adjective": ["Zenyan"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
