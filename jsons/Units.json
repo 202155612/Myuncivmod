@@ -1,5 +1,20 @@
 [
 	{
+		"name": "레타",
+		"unitType": "Armored",
+		"uniqueTo": "프라시안",
+		"replaces": "Tank",
+		"movement": 5,
+		"strength": 85,
+		"cost": 400,
+		"requiredTech": "Combustion",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"attackSound": "tankshot"
+		//German unique unit, stronger than Tank
+	},
+	{
 		"name": "프라시안 기사",
 		"replaces": "Knight"
 		"unitType": "Mounted",
