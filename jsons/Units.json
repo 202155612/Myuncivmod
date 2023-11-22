@@ -2,6 +2,7 @@
 	{
 		"name": "제니아 기사",
 		"unitType": "Mounted",
+		"uniqueTo": "제니아",
 		"movement": 4,
 		"strength": 25,
 		"cost": 120,
