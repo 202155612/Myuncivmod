@@ -25,7 +25,7 @@
 		"name": "제니아 마굿간",
 		"replaces": "Stable",
 		"cost": 40,
-		"uniqueTo": "제니아",
+		"uniqueTo": "프라시안",
 		"maintenance": 1,
 		"uniques": ["[1] free [Chariot Archer] units appear",
 			"New [Mounted] units start with [15] Experience [in this city]",
