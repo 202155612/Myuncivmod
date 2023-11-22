@@ -1,5 +1,5 @@
 [
-	{
+	/*{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "제니아",
@@ -19,5 +19,18 @@
 		"cost": 1,
 		"hurryCostModifier": 160,
 		"happiness": 2
-	}
+	},*/
+	
+	{
+		"name": "제니아 마굿간",
+		"replaces": "Stable",
+		"uniqueTo": "제니아",
+		"maintenance": 1,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
+	},
 ]
