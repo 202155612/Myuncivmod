@@ -26,7 +26,7 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "[+30]% Strength <vs cities> <when defending>", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	}/*,
 	{
