@@ -34,9 +34,9 @@
 		"unitType": "Mounted",
 		"uniqueTo": "프라시안",
 		"movement": 4,
-		"strength": 25,
+		"strength": 20,
 		"cost": 1,
-		"uniques": ["Gain [3] [Strength] <upon defeating a [All] unit>", "[3] Sight <upon defeating a [All] unit>"],
+		"uniques": ["Gain [3] [Strength] <upon defeating a [Wounded] unit>", "[3] Sight <upon defeating a [Wounded] unit>"],
 		"attackSound": "horse"
 	}/*,
 	{
