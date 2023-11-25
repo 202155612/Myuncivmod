@@ -36,7 +36,7 @@
 		"movement": 4,
 		"strength": 25,
 		"cost": 1,
-		"uniques": ["Gain [3] [Strength] <upon defeating a [All] unit>"],
+		"uniques": ["Gain [3] [Strength] <upon defeating a [All] unit>", "[3] Sight <upon defeating a [All] unit>"],
 		"attackSound": "horse"
 	}/*,
 	{
