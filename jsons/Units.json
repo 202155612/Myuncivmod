@@ -28,6 +28,16 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "[+30]% Strength <vs cities> <when defending>", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
+	},
+	{
+		"name": "검사",
+		"unitType": "Mounted",
+		"uniqueTo": "프라시안",
+		"movement": 4,
+		"strength": 25,
+		"cost": 1,
+		"uniques": ["Gain [3] [strength] <upon defeating a [Wounded] unit>"],
+		"attackSound": "horse"
 	}/*,
 	{
 		"name": "궁수",
