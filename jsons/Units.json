@@ -28,7 +28,7 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking", "[+30]% Strength <vs cities> <when defending>", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
-	},
+	}/*,
 	{
 		"name": "검사",
 		"unitType": "Mounted",
@@ -38,7 +38,7 @@
 		"cost": 1,
 		"uniques": ["Gain [3] [Strength] <upon defeating a [Wounded] unit>", "[10] Sight", "This Unit gains [30] XP <upon defeating a [Wounded] unit>"],
 		"attackSound": "horse"
-	}/*,
+	},
 	{
 		"name": "궁수",
 		"unitType": "Ranged",
