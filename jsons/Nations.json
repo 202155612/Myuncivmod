@@ -3,6 +3,7 @@
 		"name": "프라시안",
 		"leaderName": "키아타",
 		"adjective": ["프라시안"],
+		"startBias": ["Avoid [Jungle]", "Avoid [Forest]"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace!",
